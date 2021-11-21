@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skimo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skimo\\.nuget\\packages",
+      "D:\\Archivos de Programa\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
